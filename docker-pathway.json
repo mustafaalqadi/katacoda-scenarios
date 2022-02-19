@@ -6,6 +6,11 @@
       "course_id": "installation",
       "title": "Docker Setup",
       "description": "learn how to install docker in ubuntu machine "
+    },
+    {
+      "course_id": "basic-docker-command",
+      "title": "Docker Setup",
+      "description": "learn how to install docker in ubuntu machine "
     }
   ]
 }
