@@ -1,0 +1,11 @@
+{
+  "title": "docker for beginners ",
+  "description": "introduction to docker ",
+  "courses": [
+    {
+      "course_id": "installation",
+      "title": "Docker Setup",
+      "description": "learn how to install docker in ubuntu machine "
+    }
+  ]
+}
