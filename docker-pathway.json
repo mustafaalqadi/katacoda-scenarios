@@ -9,8 +9,8 @@
     },
     {
       "course_id": "basic-docker-command",
-      "title": "Docker Setup",
-      "description": "learn how to install docker in ubuntu machine "
+      "title": "Docker Basic Command",
+      "description": "learn how to pull images , run containers and list containers "
     }
   ]
 }
