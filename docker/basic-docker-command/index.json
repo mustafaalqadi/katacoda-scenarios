@@ -1,17 +1,21 @@
 {
-    "title": "Docker Setup",
-    "description": "learn how to install docker in ubuntu machine ",
+    "title": "Docker Basic Command",
+    "description": "learn how to pull images , run containers and list containers ",
     "difficulty": "Beginner",
-    "time": "15",
+    "time": "20",
     "details": {
       "steps": [
         {
-          "title": "Install Docker Engine",
+          "title": "Pull Image",
           "text": "step1-pull.md"
         },
         {
-          "title": "Post-installation steps",
-          "text": "step2.md"
+          "title": "Run Container",
+          "text": "step2-run.md"
+        },
+        {
+          "title": "List Containers",
+          "text": "step1-list.md"
         }
       ],
       "intro": {
