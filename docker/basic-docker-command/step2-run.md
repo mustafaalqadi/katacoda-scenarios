@@ -56,7 +56,7 @@ Or you can also spawn a shell in the container.
 <pre>root@c43190a11b8a:/#</pre>
 
 As you can see, we are dropped into a bash shell. Let’s exit out of it using **exit** command.
-`Exit`{{execute}}
+`exit`{{execute}}
 
 
 

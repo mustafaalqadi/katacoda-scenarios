@@ -34,13 +34,13 @@ As you can see, **myubuntu** container is running bash process.
 3.	Don’t forget to bind container port to the host as port 80 so you can access it through this  
 If you are struggling with exercises, please refer the hints
 
-(https://docs.docker.com/engine/reference/commandline/run/#set-environment-variables--e---env---env-file)
-(https://docs.docker.com/engine/reference/commandline/run/#publish-or-expose-port--p---expose)
+https://docs.docker.com/engine/reference/commandline/run/#set-environment-variables--e---env---env-file
+https://docs.docker.com/engine/reference/commandline/run/#publish-or-expose-port--p---expose
 
 # Additional Resources
 
 For more information about Docker commands, see the following references:
-•	(https://docs.docker.com/engine/reference/commandline/pull)
-•	(https://docs.docker.com/engine/reference/commandline/run)
-•	(https://docs.docker.com/engine/reference/commandline/exec)
-•	(https://docs.docker.com/engine/reference/commandline/ps)
+- https://docs.docker.com/engine/reference/commandline/pull
+- https://docs.docker.com/engine/reference/commandline/run
+- https://docs.docker.com/engine/reference/commandline/exec
+- https://docs.docker.com/engine/reference/commandline/ps
